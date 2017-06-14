@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "The gem is used to show the day-light."
   spec.description   = "The gem is used to display the users day-light. We can use this as greeting message when ever users signed-in."
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/sethukarthik/day-magick"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
