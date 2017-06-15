@@ -1,8 +1,6 @@
 # Day::Magick
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/day/magick`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Greeting to the user according to the time.
 
 ## Installation
 
@@ -26,7 +24,7 @@ In your view pages simply call
 
 <%= day_magick %>
 
-Now message will be changed automatically each when the day-time get changed.
+Now message will be changed automatically change according to the time.
 
 And that's it!
 
